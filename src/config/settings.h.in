@@ -1,0 +1,6 @@
+// the configured options and settings for Tutorial
+#define SCREEN_WIDTH @SCREEN_WIDTH@
+#define SCREEN_HEIGHT @SCREEN_HEIGHT@
+
+#define CSDL_VERSION_MAJOR @CSDL_VERSION_MAJOR@
+#define CSDL_VERSION_MINOR @CSDL_VERSION_MINOR@
